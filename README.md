@@ -233,6 +233,7 @@ In deployment, routing often faces hard resource constraints (e.g., maximum late
 | [Mahmood et al. (Routing, Cascades, and User Choice for LLMs)](https://arxiv.org/abs/2602.09902) | Theory  | ICLR 2026  | –    |
 | [Bae et al. (Learning to Route and Schedule LLMs from User Retrials via Contextual Queueing Bandits)](https://arxiv.org/abs/2602.02061) | General | ArXiv 2026 | –    |
 | [What Does a Routing Oracle Measure Under Stochastic Decoding? Coupling, Scorer Choice, and Single-Commit Ceilings](https://arxiv.org/abs/2607.03436) | Theory, General | ArXiv 2026 | [github](https://github.com/luka-krixvon/routing-oracle-experiment) |
+| [What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute](https://arxiv.org/abs/2610.02491) | Math, Code | ArXiv 2026 | – |
 
 ### **Sub‑Category: Benchmark and Evaluation**
 
